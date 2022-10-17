@@ -1,0 +1,39 @@
+body{background-color: lightyellow;
+	margin-left: 80pt;
+	margin-top: 0pt;
+	font-family: sans-serif;
+}
+
+.tituloindex{font-size: 3rem;
+}
+	
+
+hr{
+	color:green;
+}
+
+
+h2{
+	color: brown;
+}
+
+
+
+
+code{
+	font-size: 1rem;
+	color: blue;
+}
+
+svg{
+	transform: scale(.7);
+	vertical-align: middle;
+}
+
+hr{border-color:orange;}
+
+.logoinstagram{float: right;}
+
+hr{border-style: dotted;}
+
+table{border-color: green yellow black blue;}

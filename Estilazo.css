@@ -33,7 +33,9 @@ svg{
 hr{border-color:orange;}
 
 .logoinstagram{float: right;}
+.derecha{float: right;}
 
 hr{border-style: dotted;}
 
-table{border-color: green yellow black blue;}
+table{border-color: green yellow black blue;
+border-radius: 10px;}

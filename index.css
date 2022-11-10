@@ -1,0 +1,56 @@
+body{background-color: lightyellow;
+	margin-left: 80pt;
+	margin-right: 80pt;
+	font-family: sans-serif;
+}
+
+
+	
+
+hr{
+	color:green;
+}
+
+
+h1{	margin-top: 50px ;
+	text-align: center;
+	color: brown;
+}
+
+
+
+
+code{
+	font-size: 1rem;
+	color: blue;
+}
+
+svg{
+	transform: scale(.7);
+	vertical-align: middle;
+}
+
+hr{border-color:orange;}
+
+.logoinstagram{float: right;}
+.derecha{float: right;}
+
+hr{border-style: dotted;}
+
+table{
+	border-color: green yellow black blue;
+	border-radius: 10px;
+	margin: 0% auto;
+}
+
+li {
+	font: menu;
+	display: inline;
+	float: unset;
+  }
+
+ul {
+	text-align: center;
+
+}
+

@@ -6,3 +6,40 @@ body{background-color: lightyellow;
 
 .logoinstagram{float: right;}
 .derecha{float: right;}
+
+div {
+    text-align: left;
+    font-size: 16px;
+}
+
+
+.img {
+    float: right;
+    margin-top: 3px;
+    margin-left: 25px;
+}
+
+.td{padding-right: 1000px;
+}
+
+.th{text-align: left;
+	font-size: 25px;
+	
+}
+
+.ul{text-align: center;
+
+}
+li {
+	font: menu;
+	display: inline;
+	float: unset;
+  }
+
+h1{
+	text-align: center;
+}
+
+span{font-size: 16px;
+
+}
